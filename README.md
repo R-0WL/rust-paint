@@ -1,5 +1,5 @@
 # GRF -> rust-paint
-
+*Para ver exclusivamente lo que se pidió en la tarea ir a *[este commit](https://github.com/R-0WL/rust-paint/tree/db3f0c6cefc2090435097005b20f550bb07e4067)*
 ## Ejecución de programa
 ![alt text](paint.gif)
 
